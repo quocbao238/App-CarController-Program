@@ -9,5 +9,11 @@
 					classpath 'com.android.tools.build:gradle:3.2.1'
 					  }
 
+** Always use AndroidX
+	-> gradle.properties -> add 
+		android.useAndroidX=true
+		android.enableJetifier=true
+
+
 ** Token retrieval failed: SERVICE_NOT_AVAILABLE
 	-> 
