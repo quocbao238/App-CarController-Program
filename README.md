@@ -1,19 +1,6 @@
-# FlutterApp_FixBug
+# App-Car-Controller-Program
+https://play.google.com/intl/vi/badges/images/generic/vi_badge_web_generic.png?hl=vi
 
-----------------------------------------Firebase----------------------------------------
+## Play With Docker
 
-** What went wrong: A problem occurred evaluating project ':app'. > ASCII
-	-> grade-wrapper.properties: then edit distributionUrl to Version 5.6.2
-	-> build.gradle: Add dependencies {
-					classpath 'com.google.gms:google-services:4.2.0'
-					classpath 'com.android.tools.build:gradle:3.2.1'
-					  }
-
-** Always use AndroidX
-	-> gradle.properties -> add 
-		android.useAndroidX=true
-		android.enableJetifier=true
-
-
-** Token retrieval failed: SERVICE_NOT_AVAILABLE
-	-> 
+[![Try in PWD](https://play.google.com/intl/vi/badges/images/generic/vi_badge_web_generic.png?hl=vi)](https://play.google.com/store/apps/details?id=bao.bon.wificar&fbclid=IwAR3YgmXNkmku0ASb8SiB5wBRETRY7DuGUuZAwhAd36Q5YIzrs3mkmLCsAxM)
